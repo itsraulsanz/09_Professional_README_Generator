@@ -19,7 +19,7 @@
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
   ## Deployment
-  ![caption](/video/readme_generator.mp4)
+  ![caption](https://github.com/itsraulsanz/Github-README-Generator/blob/main/video/readme_generator.mp4)
 
   ## License
   This project is licensed under MIT license.
