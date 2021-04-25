@@ -78,7 +78,7 @@ const writeToFile = (answers) =>
   ${answers.usageInfo}
 
   ## License
-  ${answers.license}
+  This project is licensed under ${answers.license} license.
   
   ---
 
@@ -89,8 +89,8 @@ const writeToFile = (answers) =>
   ${answers.test}
 
   ## Questions
-  <a href="https://github.com/${answers.username}/">https://github.com/${answers.username}/</a>
-  ###How to reach me with additional questions
+  Github: <a href="https://github.com/${answers.username}/">https://github.com/${answers.username}/</a><br />
+  ### How to reach me with additional questions
   <a href="mailto:${answers.email}">${answers.email}</a>  
 `;
 
